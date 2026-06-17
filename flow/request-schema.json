@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "fileName": { "type": "string" },
+    "level": { "type": "string" },
+    "fileContentBase64": { "type": "string" },
+    "apiKey": { "type": "string" },
+    "submittedBy": { "type": "string" },
+    "base": { "type": "string" },
+    "name": { "type": "string" },
+    "date": { "type": "string" }
+  },
+  "required": ["fileName", "level", "fileContentBase64"]
+}
