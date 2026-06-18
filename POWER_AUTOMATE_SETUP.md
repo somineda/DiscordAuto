@@ -1,4 +1,4 @@
-# Power Automate 흐름 만들기 (HTTP 요청 → SharePoint 저장)
+﻿# Power Automate 흐름 만들기 (HTTP 요청 → SharePoint 저장)
 
 봇이 보낸 JSON을 받아 SharePoint의 **기본/심화** 폴더에 파일로 저장하는 흐름입니다.
 모두 **표준 커넥터**라 프리미엄 라이선스가 필요 없습니다.
